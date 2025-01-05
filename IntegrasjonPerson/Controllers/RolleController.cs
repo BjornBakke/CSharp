@@ -1,12 +1,12 @@
-using Integrasjon_person.Api;
+using IntegrasjonPerson.Api;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Integrasjon_person.Controllers;
+namespace IntegrasjonPerson.Controllers;
 
 [ApiController]
 [Route("[controller]")]
 public class RolleController : ControllerBase {
-    private static readonly string[] Roller = new[] { "Forsikret", "Betaler" };
+    private static readonly string[] Roller = ["Forsikret", "Betaler"];
 
 
     [HttpGet(Name = "GetRolle")]

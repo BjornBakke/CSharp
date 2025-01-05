@@ -5,7 +5,12 @@
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <WarningsAsErrors>CS8600;CS8602;CS8603</WarningsAsErrors>
-        <RootNamespace>Integrasjon_person</RootNamespace>
+        <RootNamespace>IntegrasjonPerson</RootNamespace>
+        <AssemblyName>IntegrasjonPerson</AssemblyName>
+        <PackageId>IntegrasjonPerson</PackageId>
+        <Authors>IntegrasjonPerson</Authors>
+        <Company>IntegrasjonPerson</Company>
+        <Product>IntegrasjonPerson</Product>
     </PropertyGroup>
 
     <ItemGroup>

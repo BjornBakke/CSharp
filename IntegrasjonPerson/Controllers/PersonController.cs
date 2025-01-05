@@ -1,7 +1,7 @@
-﻿using Integrasjon_person.Api;
+﻿using IntegrasjonPerson.Api;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Integrasjon_person.Controllers;
+namespace IntegrasjonPerson.Controllers;
 
 [ApiController]
 [Route("[controller]")]

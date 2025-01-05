@@ -1,4 +1,4 @@
-namespace Integrasjon_person.Api;
+namespace IntegrasjonPerson.Api;
 
 public record Rolle {
     public DateTime Opprettetdato { get; init; }

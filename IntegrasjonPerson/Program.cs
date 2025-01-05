@@ -1,5 +1,5 @@
-using Integrasjon_person.backend;
-using Integrasjon_person.Services;
+using IntegrasjonPerson.backend;
+using IntegrasjonPerson.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // IOC: eksponer  domene-tjenester.

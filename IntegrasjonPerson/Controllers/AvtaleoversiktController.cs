@@ -1,8 +1,8 @@
-﻿using Integrasjon_person.Api;
-using Integrasjon_person.Services;
+﻿using IntegrasjonPerson.Api;
+using IntegrasjonPerson.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Integrasjon_person.Controllers;
+namespace IntegrasjonPerson.Controllers;
 
 [ApiController]
 [Route("v1/avtaleoversikt")]
