@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
     <PropertyGroup>
-        <TargetFramework>net9.0</TargetFramework>
+        <TargetFramework>net10.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <WarningsAsErrors>CS8600;CS8602;CS8603</WarningsAsErrors>
@@ -11,6 +11,7 @@
         <Authors>IntegrasjonPerson</Authors>
         <Company>IntegrasjonPerson</Company>
         <Product>IntegrasjonPerson</Product>
+        <LangVersion>14</LangVersion>
     </PropertyGroup>
 
     <ItemGroup>
